@@ -1,15 +1,1 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
-
-Initial Security()
-{
- //Sample Code
-}
-
-
-
-}
+int main() { printf("Feature 1"); return 0; }
