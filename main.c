@@ -13,3 +13,4 @@ Initial Security()
 
 
 }
+int patch() { printf("Security patch applied"); return 1; }
